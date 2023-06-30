@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Information Communication and Multimedia Technology</item>
+        <item>Automobile Repair and Maintenance</item>
+        <item>Building and Construction</item>
+        <item>Electrical and Electronic Communication</item>
+        <item>Food Technology</item>
+        <item>Hotel and Tourism</item>
+        <item>Metal and Light Engineering</item>
+        <item>Personal Community Development</item>
+        <item>Refrigeration and Air Conditioning</item>
+        <item>Textile and Garment</item>
+        <item>Wood Related</item>
+    </string-array>
+</resources>

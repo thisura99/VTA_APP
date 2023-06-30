@@ -1,0 +1,265 @@
+<resources>
+    <string name="app_name">VTA</string>
+    <string name="title_activity_splash_screen">Splash_Screen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="vision">To be the most dynamic and innovative vocational training provider in Sri Lanka, catering to the global employment market.</string>
+    <string name="mission">To facilitate the fulfilment of the global skilled employment demand by developing competencies in individuals through modern methods and technologies in vocational training and education. We realize this mission by setting the highest standards in our services and facilities while focusing on employability trends in the world of work.</string>
+    <string name="objective">
+    "\u2714 Formulation and providing vocational training programs to youth and make them competent with various trades.\n"
+    "\u2714 Provide accessibility to youth by establishing vocational training centers in rural areas.\n"
+    "\u2714 Conduct trainer training programs to deliver the vocational training effectively and efficiently.\n"
+    "\u2714 Conduct competency based assessments / final assessments, issue National Vocational Qualification (NVQ) certificates and other certificates.\n"
+    "\u2714 Provide career guidance and counselling to school leavers and other youth."
+    </string>
+        <string name="values">"\u2714 Flexibility to change\n"
+    "\u2714 Align with skill needs\n"
+    "\u2714 Striving to achieve excellence\n"
+    "\u2714 Being responsible and accountable at all levels\n"
+    "\u2714 Commitment to highest Quality and Integrity\n"
+    "\u2714 Team Spirit\n"
+    "\u2714 Being honest, punctual and sensitive to humanitarian concerns\n"
+    "\u2714 Being committed to continuous growth towards satisfaction for trainees and other stakeholders"
+    </string>
+    <string name="functions">
+    "\u2714 Provide vocational training to students by conducting vocational training programs through island-wide centres.\n"
+    "\u2714 Conduct trade tests, final assessments and issue National Vocational Qualification (NVQ) certificates through TVEC.\n"
+    "\u2714 Conduct various research programs on vocational training.\n"
+    "\u2714 Conduct career guidance and counselling programs.\n"
+    "\u2714 Conduct trainer training programs to deliver the vocational training efficiently and effectively.\n"
+    "\u2714 Facilitate the youth who have undergone vocational training to engage with employment opportunities or to start their own business."
+</string>
+    <string name="aboutvta">
+        The Vocational Training Authority of Sri Lanka(VTA) was established on 16th August 1995 under the provisions of the Vocational
+        Training Authority of Sri Lanka Act No.12 of 1995.It was a concept of His Excellency the former President Mahinda Rajapaksa when
+        he was the Hon. Ministry of Labor and Vocational Training. VTA was established with the intent to provide skills for employment.
+        The Manpower Division, the training arm of Labor Department which was running Technical and Vocational training programs in many
+        parts of Sri Lanka, this was converted to the newly constitute Vocational Training Authority (VTA) making vocational training
+        more accessible to rural youth and depressed segments in the country.\n
+
+        The key intention behind establishing the VTA was to reach the rural mass of the country which was 72% of the total population,
+        and make them to be skillful to find employment opportunities both locally and internationally. The the Board of Directors
+        representing various ministries assigned with specific subjects areas, i.e., youth affairs, education, industrial development,
+        finance and labor including the corporate sector.\n
+
+        This diversified representation at the board level leads to fruitful dialogue infusing wealth of knowledge and experience
+        by them in their own fields. The chairman of the board is also the Chief Executive officer of VTA by virtue of the act while
+        serving as the Commission member for Tertiary and Vocational and Education Commission (TVEC) and the University of Vocational
+        Technology(UNIVOTEC), the most important entities established under the purview of the Ministery of Education as of today, the
+        VTA is operating as the largest vocational training network with 178 Vocational Training Centres (VTC), 22 District Vocational
+        Training Centers (DVTC) and 8 National Vocational Training Institutes (NVTI), which was previously had just 31 Vocational Training
+        Centres in 1995. Approximately, 35,000 youth get trained annually in 95 different full-time courses in 19 various trade sectors.
+        When completing the training, youth are directed for local and foreign employment opportunities. Further, students are also
+        eligible to apply for financial assistance scheme called "SEPI" to provide loans for those who intend to start self employment.\n
+    </string>
+    <string name="para1">"Welcome to the Vocational Training Authority of Sri Lanka (VTA), the premier institute in providing Technical and Vocational Education and Training (TVET) in the government sector. "</string>
+    <string name="para2">Established under the Vocational Training Authority Act No.12 of 1995, VTA has been functioning for the last 27 years and contributing extensively to the national economy. Each year, VTA produces nearly 35000 youth empowering them with vocational skills for employability and entrepreneurship. Since its inception, VTA has provided skill training for more than 500,000 youth throughout the island. VTA comprises of 206 training centres, including 08 National Vocational Training Institutes (NVTI), 22 District Vocational Training Centres (DVTC) and other Vocational Training Centres established at Divisional Secretariat level. Our aim is to produce globally competitive, industry specific and quality workforce by setting the highest standards in our services and facilities by focusing on global employability trends and developing competencies in individuals. In addition, recognizing the needs of the market, we are teaching English and soft skills to all the trainees in VTA making them competent in non-technical skills such as communication, problem solving, teamwork, enthusiasm and cultivating innovative ideas to produce a set of self-confident skilled employees. Furthermore, VTA is subjected to continuous improvement process to keep up with the advancement of technology and the market forces to provide the best employable work force for any industry. Therefore, I would like to invite you to become students of VTA.</string>
+
+
+    <string name="ict3t1"><b>Introduction</b></string>
+    <string name="ict3t2"><b>Qualification</b></string>
+    <string name="ict3t3"><b>Duration</b></string>
+    <string name="ict3t4"><b>NVQ Certificate Level</b></string>
+    <string name="ict3t5"><b>Available Centers</b></string>
+
+
+    <string name="centert1">&#x1F3E0;Address:</string>
+    <string name="centert2">\uD83D\uDCD6 Available Courses:</string>
+    <string name="centert3">&#x260E;Phone:</string>
+    <string name="centert4">\u2709 E-mail:</string>
+
+
+    <string name="dvtahoranap1">Yalagala road, Wewala,Horana.</string>
+    <string name="dvtahoranap2">Automobile Mechanic \nBarker \nCook \nFabricator(Metal) \nCook \nBeautician \nHair Dresser \nChildcare \nAC \nWood Craftsman(Furniture)</string>
+    <string name="dvtahoranap3">0710318866 \n0710318753</string>
+    <string name="dvtahoranap4">vtc_horana@gmail.com</string>
+
+    <string name="horanavtcp1">Isipathana Mawatha,Wewala,Horana.</string>
+    <string name="horanavtcp2">ICT Level 4\nICT Level 5 \nComputer Hardware Technician \nAutomobile A/C Mechanic \nMotor Cycle Mechanic \nAluminium Fabricator \nDraughtsperson \nELectric Motor Winder \nElectronic Appliances Technician \nDressmaker \nGarment production Supervisor</string>
+    <string name="horanavtcp3">0710318870 \n0710318753</string>
+    <string name="horanavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="kalutharavtcp1">Ashokarama Rd,Kalutara North </string>
+    <string name="kalutharavtcp2">ICT Level 4 \nSoftware Development \nCook \nHair Dresser \nChildcare</string>
+    <string name="kalutharavtcp3">0710318869 \n0710318753</string>
+    <string name="kalutharavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="walanavtcp1">Bekkegama Road,Walana, Panadura</string>
+    <string name="walanavtcp2">Hair Dresser \nChildcare</string>
+    <string name="walanavtcp3">0710318874 \n0710318753</string>
+    <string name="walanavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="walgamavtcp1">Lion Club Building, Gammanpila,Walgama,Bandaragama</string>
+    <string name="walgamavtcp2">Electrician</string>
+    <string name="walgamavtcp3">0710318875 \n0710318753</string>
+    <string name="walgamavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="meegahathennavtcp1">Nippon Buddhist Centre,Samanalawatta,Meegahathenna.</string>
+    <string name="meegahathennavtcp2">ICT Level 4 \nElectrician \nWelder</string>
+    <string name="meegahathennavtcp3">0760937991 \n0710318753</string>
+    <string name="meegahathennavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="dombagodacampvtcp1">Weewala, Horana</string>
+    <string name="dombagodacampvtcp2">Welder</string>
+    <string name="dombagodacampvtcp3">011-2132465 \n011-2354693</string>
+    <string name="dombagodacampvtcp4">vtc_horana@gmail.com</string>
+
+    <string name="panapitiyavtcp1">Panapitiya,Waskaduwa</string>
+    <string name="panapitiyavtcp2">Motor Cycle Mechanic \nConstruction Craftsman \nElectrician \nCook</string>
+    <string name="panapitiyavtcp3">0710318873 \n0710318753</string>
+    <string name="panapitiyavtcp4">vtc_horana@gmail.com</string>
+
+    <string name="ict4p1"> An ICT Technician is responsible for providing technical support and assistance in the field of information and communication technology. They troubleshoot hardware and software issues, install and maintain computer systems, and ensure network connectivity..</string>
+    <string name="ict4p2"> Pass 06 subjects in G.C.E. (O/L) with credits in English and Maths</string>
+    <string name="ict4p3"> 6 Months</string>
+    <string name="ict4p4"> NVQ Level 4</string>
+    <string name="ict4p5"> Horana VTC \nKandeviharaya VTC \nMeegahathenna VTC \nKaluthara VTC</string>
+
+
+    <string name="ict5p1"> An ICT Technician is responsible for providing technical support and assistance in the field of information and communication technology. They troubleshoot hardware and software issues, install and maintain computer systems, and ensure network connectivity.</string>
+    <string name="ict5p2"> Successful Completion of NVQ Level o3 or 04 course in related area or pass 03 Subject in GCE (A/L) Technology Stream or Other relevant stream. with Credit Pass in English (G.C.E. (O/L)) or Successfully Completed English Course.</string>
+    <string name="ict5p3"> 12 Months</string>
+    <string name="ict5p4"> NVQ Level 5</string>
+    <string name="ict5p5"> VTC Horana</string>
+
+    <string name="icthardwarep1"> An ICT Hardware Technician specializes in the installation, repair, and maintenance of computer hardware components. They assemble and configure computer systems, diagnose hardware problems, and replace faulty parts to ensure optimal performance.</string>
+    <string name="icthardwarep2"> Pass 06 subjects in G.C.E.(O/L) with credits in English or Completed English language Course</string>
+    <string name="icthardwarep3"> 6 Months</string>
+    <string name="icthardwarep4"> NVQ Level 4</string>
+    <string name="icthardwarep5"> VTC Horana</string>
+
+    <string name="softwaredevp1"> A Software Developer Technician plays a vital role in designing, developing, and testing software applications. They write code, debug programs, and collaborate with the development team to create efficient and functional software solutions.</string>
+    <string name="softwaredevp2"> Pass 06 subjects in G.C.E.(O/L) with credits in English and Maths</string>
+    <string name="softwaredevp3"> 12 Months</string>
+    <string name="softwaredevp4"> NVQ Level 4</string>
+    <string name="softwaredevp5"> Kaluthara VTC \nKandeviharaya VTC</string>
+
+    <string name="automobilep1"> An Automobile Mechanic has expertise in diagnosing and repairing various mechanical and electrical issues in vehicles. They perform engine repairs, conduct routine maintenance, inspect brake systems, and ensure overall vehicle performance and safety.</string>
+    <string name="automobilep2"> Pass Grade 8</string>
+    <string name="automobilep3"> 18 Months</string>
+    <string name="automobilep4"> NVQ Level 4</string>
+    <string name="automobilep5"> Horana DVTC</string>
+
+    <string name="autoacp1"> An Automobile A/C Mechanic specializes in repairing and servicing air conditioning systems in vehicles. They diagnose A/C problems, recharge refrigerant, replace faulty components, and ensure optimal cooling performance in automobiles.</string>
+    <string name="autoacp2"> Pass 06 Subjects in G.C.E. (O/L) or above NVQ Level 3 qualification in relevant field</string>
+    <string name="autoacp3"> 12 Months</string>
+    <string name="autoacp4"> NVQ Level 4</string>
+    <string name="autoacp5"> Horana VTC</string>
+
+    <string name="motorcyclep1"> A Motorcycle Mechanic is skilled in repairing and maintaining motorcycles. They diagnose mechanical issues, perform tune-ups, replace worn-out parts, and ensure the proper functioning of engines, brakes, and electrical systems.</string>
+    <string name="motorcyclep2"> Appear for G.C.E. (O/L) or above</string>
+    <string name="motorcyclep3"> 6 Months</string>
+    <string name="motorcyclep4"> NVQ Level 3</string>
+    <string name="motorcyclep5"> Horana VTC \nPanapitiya VTC</string>
+
+    <string name="aluminiump1"> Aluminium is a lightweight metal known for its corrosion resistance and high strength-to-weight ratio. It is widely used in various industries, including construction, automotive, and aerospace. Aluminium is valued for its versatility and is used in the production of cans, window frames, aircraft parts, and more.</string>
+    <string name="aluminiump2"> Appear For G.C.E.(O/L) or above</string>
+    <string name="aluminiump3"> 6 Months</string>
+    <string name="aluminiump4"> NVQ Level 4</string>
+    <string name="aluminiump5"> Horana VTC</string>
+
+    <string name="draughtspersonp1"> A draughtsperson, also known as a draftsman or drafter, is a skilled professional who creates technical drawings and plans using computer-aided design (CAD) software or traditional drafting tools. Draughtspersons play a crucial role in architectural, engineering, and manufacturing fields by translating ideas and concepts into detailed and accurate drawings.</string>
+    <string name="draughtspersonp2"> Appear For G.C.E.(O/L) or above</string>
+    <string name="draughtspersonp3"> 12 Months</string>
+    <string name="draughtspersonp4"> NVQ Level 4</string>
+    <string name="draughtspersonp5"> Horana VTC</string>
+
+    <string name="constructionp1"> Construction refers to the process of building or assembling structures, infrastructure, or physical facilities. It involves various activities such as planning, designing, financing, and executing projects. Construction projects can range from residential buildings and commercial complexes to bridges, roads, and dams, and require the collaboration of architects, engineers, contractors, and other professionals.</string>
+    <string name="constructionp2"> From Year 9 to appear for G.C.E. (A/L)</string>
+    <string name="constructionp3"> 6 Months</string>
+    <string name="constructionp4"> NVQ Level 3</string>
+    <string name="constructionp5"> Panapitiya VTC</string>
+
+    <string name="motorwinderp1"> A motorwinder is a skilled technician responsible for the repair, maintenance, and rewinding of electric motors. They diagnose motor faults, dismantle and clean motor components, replace damaged parts, and reassemble the motor to restore its functionality. Motorwinders work in industries such as manufacturing, power generation, and automotive, ensuring the efficient operation of electric motors.</string>
+    <string name="motorwinderp2"> Pass 06 Subjects in G.C.E. (O/L) or above or NVQ Level 3 qualification in Motor Winder Course</string>
+    <string name="motorwinderp3"> 12 Months</string>
+    <string name="motorwinderp4"> NVQ Level 4</string>
+    <string name="motorwinderp5"> Horana VTC</string>
+
+    <string name="electronictechnicianp1"> An electronic technician is an expert in the installation, repair, and maintenance of electronic equipment and systems. They troubleshoot electronic circuits, diagnose faults, and replace defective components. Electronic technicians work in various industries, including telecommunications, manufacturing, and healthcare, and play a crucial role in keeping electronic systems operational and ensuring their proper functioning.</string>
+    <string name="electronictechnicianp2"> Pass 06 subjects in GCE (O/L) With Science and Maths or above</string>
+    <string name="electronictechnicianp3"> 12 Months</string>
+    <string name="electronictechnicianp4"> NVQ Level 4</string>
+    <string name="electronictechnicianp5"> Horana VTC</string>
+
+    <string name="electricianp1"> An electrician is a skilled tradesperson who specializes in electrical wiring, installation, and maintenance. They work on residential, commercial, and industrial projects, ensuring the safe and efficient distribution of electrical power. Electricians read blueprints, install wiring systems, troubleshoot electrical faults, and adhere to safety codes and regulations to prevent electrical hazards.</string>
+    <string name="electricianp2"> Apear For G.C.E.(O/L) or above</string>
+    <string name="electricianp3"> 6 Months</string>
+    <string name="electricianp4"> NVQ Level 3</string>
+    <string name="electricianp5"> Meegahathenna VTC \nPanapitiya VTC \nWalgama VTC \nKandeviharaya VTC</string>
+
+    <string name="bakerp1"> Bakers are skilled artisans who create delicious baked goods like bread, pastries, and cakes. They combine ingredients, follow recipes, and use their expertise to craft mouthwatering treats that delight the senses.</string>
+    <string name="bakerp2"> Apear For G.C.E.(O/L) or above</string>
+    <string name="bakerp3"> 6 Months</string>
+    <string name="bakerp4"> NVQ Level 4</string>
+    <string name="bakerp5"> Horana DVTC</string>
+
+    <string name="cookp1"> Cooks are culinary professionals who prepare and create flavorful dishes using various cooking techniques and ingredients. They bring creativity to the kitchen, showcasing their skills in crafting appetizing meals that satisfy and leave a lasting impression.</string>
+    <string name="cookp2"> Apear For G.C.E.(O/L) or above</string>
+    <string name="cookp3"> 6 Months</string>
+    <string name="cookp4"> NVQ Level 4</string>
+    <string name="cookp5"> Horana DVTC \nPanapitiya VTC \nKaluthara VTC</string>
+
+    <string name="fabricatorp1"> Fabricators are skilled craftsmen who work with various materials, such as metal, plastic, or wood, to construct and assemble intricate structures or components. They use specialized tools and techniques to bring designs to life, ensuring precision and quality in their work.</string>
+    <string name="fabricatorp2"> No Qualification Require</string>
+    <string name="fabricatorp3"> 12 Months</string>
+    <string name="fabricatorp4"> NVQ Level 4</string>
+    <string name="fabricatorp5"> Horana DVTC</string>
+
+    <string name="welderp1"> Welders are skilled technicians who join metal pieces together using high heat and specialized equipment. They work with precision and expertise, creating strong and durable welds that form the foundation for structures, machinery, and various metalwork projects.</string>
+    <string name="welderp2"> No Qualification Require</string>
+    <string name="welderp3"> 6 Months</string>
+    <string name="welderp4"> NVQ Level 3</string>
+    <string name="welderp5"> Meegahathenna VTC \nDombagoda Camp VTC</string>
+
+    <string name="beauticianp1"> Beauticians are professionals who provide beauty and skincare services to clients. They specialize in techniques such as hairstyling, makeup application, nail care, and skincare treatments. With their expertise, they enhance the natural beauty of their clients, leaving them feeling confident and pampered.</string>
+    <string name="beauticianp2"> No Qualification Require</string>
+    <string name="beauticianp3"> 3 Months</string>
+    <string name="beauticianp4"> NVQ Level 4</string>
+    <string name="beauticianp5"> Horana DVTC</string>
+
+    <string name="hairdresserp1"> Hairdressers are skilled stylists who work with clients to create beautiful hairstyles. They cut, color, and style hair to match the desired look, while also providing haircare advice and recommendations. Hairdressers have a keen eye for trends and deliver personalized services that leave clients feeling stylish and refreshed.</string>
+    <string name="hairdresserp2"> No Qualification Require</string>
+    <string name="hairdresserp3"> 3 Months</string>
+    <string name="hairdresserp4"> NVQ Level 3</string>
+    <string name="hairdresserp5"> Horana DVTC \nKalutara VTC \nWalana VTC</string>
+
+    <string name="childcarep1"> Childcare professionals are dedicated individuals who provide nurturing care and supervision to children. They create safe and engaging environments, organize educational activities, and offer emotional support to promote children is growth and development. Childcare providers play a vital role in shaping young lives and fostering a positive learning experience.</string>
+    <string name="childcarep2"> No Qualification Require</string>
+    <string name="childcarep3"> 6 Months</string>
+    <string name="childcarep4"> NVQ Level 4</string>
+    <string name="childcarep5"> HoranaDVTA \nKalutara VTC \nWalana VTC  </string>
+
+    <string name="acp1"> AC technicians are trained experts who install, maintain, and repair air conditioning systems. They possess knowledge of cooling technologies and refrigeration principles, ensuring optimal performance and energy efficiency. AC technicians play a crucial role in creating comfortable indoor environments, especially during hot weather.</string>
+    <string name="acp2"> No Qualification Require</string>
+    <string name="acp3"> 12 Months</string>
+    <string name="acp4"> NVQ Level 4</string>
+    <string name="acp5"> Horana DVTA</string>
+
+    <string name="dressmakerp1"> Dressmakers are skilled artisans who create custom garments and clothing items. They work closely with clients to understand their style preferences and measurements, using their sewing and tailoring expertise to bring designs to life. Dressmakers create unique and perfectly fitted garments that reflect individuality and personal style.</string>
+    <string name="dressmakerp2"> No Qualification Require</string>
+    <string name="dressmakerp3"> 6 Months</string>
+    <string name="dressmakerp4"> NVQ Level 4</string>
+    <string name="dressmakerp5"> Horana VTC</string>
+
+    <string name="productionp1"> Production professionals oversee the manufacturing and production processes in various industries. They coordinate resources, manage workflows, and ensure quality control to meet production targets. With their organizational skills and attention to detail, production experts optimize efficiency and contribute to the successful delivery of goods and services.</string>
+    <string name="productionp2"> No Qualification Require</string>
+    <string name="productionp3"> 6 Months</string>
+    <string name="productionp4"> NVQ Level 4</string>
+    <string name="productionp5"> Horana VTC</string>
+
+    <string name="woodp1"> Woodworkers are skilled craftsmen who work with wood to create furniture, structures, and decorative items. They use a variety of tools and techniques to shape, carve, and assemble wood pieces, bringing out the natural beauty of the material. Woodworkers blend creativity and technical skill to produce stunning and functional woodwork.</string>
+    <string name="woodp2"> No Qualification Require</string>
+    <string name="woodp3"> 12 Months</string>
+    <string name="woodp4"> NVQ Level 4</string>
+    <string name="woodp5"> Horana DVTC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
